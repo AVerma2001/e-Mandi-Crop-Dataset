@@ -1,0 +1,29 @@
+Min,Max,Modal Price from Madhya Pradesh[Arhar Dal(Tur Dal)] from 01-Jul-2020To31-Dec-2020 (Total-1) (Total-1)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Vidisha</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Vidisha</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Arhar Dal(Tur Dal)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Arhar Dal(Tur)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">4811</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">5201</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">5100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">16 Nov 2020</span>
+                                </td>
+		</tr>
+	</table>
+</div>
